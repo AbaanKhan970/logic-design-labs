@@ -56,9 +56,7 @@ This repository contains a collection of completed lab assignments from the **Lo
 These labs were completed by:
 
 - **Abaan Khan**  
-
 - **Mustafa Shahid**  
-  - McMaster University
 
 ---
 
